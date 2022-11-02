@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4d1f50a-8cc6-42ef-915e-bf277d64fc9a" name="Changes" comment="Sept_2022_JS">
-      <change afterPath="$PROJECT_DIR$/HW_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_2/main.js" afterDir="false" />
+    <list default="true" id="f4d1f50a-8cc6-42ef-915e-bf277d64fc9a" name="Changes" comment="HW_2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW_1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/HW_1/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_2/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/HW_2/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,20 +32,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JavaScript"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JavaScript&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ylise\Sept-2022-JS\HW_2" />
@@ -67,7 +65,8 @@
       <workItem from="1667250607062" duration="5275000" />
       <workItem from="1667292278897" duration="117000" />
       <workItem from="1667416096712" duration="105000" />
-      <workItem from="1667416223754" duration="5990000" />
+      <workItem from="1667416223754" duration="6649000" />
+      <workItem from="1667427152101" duration="317000" />
     </task>
     <task id="LOCAL-00001" summary="Sept_2022_JS">
       <created>1667252588381</created>
@@ -76,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667252588381</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HW_2">
+      <created>1667424981917</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667424981917</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,7 +101,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Sept_2022_JS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sept_2022_JS" />
+    <MESSAGE value="HW_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW_2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

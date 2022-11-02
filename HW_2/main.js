@@ -207,6 +207,16 @@ let user10 = {
 
 }
 
-let users = {user1, user2 , user3, user4, user5, user6, user7, user8, user9, user10}
-console.log(users);
-console.log(users.user1.password, users.user2.password, users.user3.password, users.user4.password, users.user5.password, users.user6.password, users.user7.password, users.user8.password, users.user9.password, users.user10.password);
+let users = [user1, user2 , user3, user4, user5, user6, user7, user8, user9, user10]
+// console.log(users);
+// console.log(users.user1.password, users.user2.password, users.user3.password, users.user4.password, users.user5.password, users.user6.password, users.user7.password, users.user8.password, users.user9.password, users.user10.password);
+console.log(users[0].password)
+console.log(users[1].password)
+console.log(users[2].password)
+console.log(users[3].password)
+console.log(users[4].password)
+console.log(users[5].password)
+console.log(users[6].password)
+console.log(users[7].password)
+console.log(users[8].password)
+console.log(users[9].password)
