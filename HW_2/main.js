@@ -43,31 +43,31 @@ let book4 = {
     title: 'title',
     pageCount: 123,
     genre: 'fiction',
-    authors: {
+    authors: [{
         name: 'someOne',
         age: 30,
 
-    }
+    }]
 }
 let book5 = {
     title: 'main',
     pageCount: 234,
     genre: 'drama',
-    authors: {
+    authors: [{
         name: 'someOne',
         age: 30,
 
-    }
+    }]
 }
 let book6 = {
     title: 'main1',
     pageCount: 345,
     genre: 'poetry',
-    authors: {
+    authors: [{
         name: 'someOne',
         age: 30,
 
-    }
+    }]
 }
 
 console.log(book4,book5, book6)
