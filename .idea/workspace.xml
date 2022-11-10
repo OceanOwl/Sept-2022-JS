@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4d1f50a-8cc6-42ef-915e-bf277d64fc9a" name="Changes" comment="HW_2">
-      <change afterPath="$PROJECT_DIR$/HW_3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_3/main.js" afterDir="false" />
+    <list default="true" id="f4d1f50a-8cc6-42ef-915e-bf277d64fc9a" name="Changes" comment="HW_3">
+      <change afterPath="$PROJECT_DIR$/HW_4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_4/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_4/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW_2/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/HW_2/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +70,9 @@
       <workItem from="1667416223754" duration="6649000" />
       <workItem from="1667427152101" duration="748000" />
       <workItem from="1667428201765" duration="544000" />
-      <workItem from="1667851478741" duration="6002000" />
+      <workItem from="1667851478741" duration="6191000" />
+      <workItem from="1667858066299" duration="19000" />
+      <workItem from="1668025315535" duration="12317000" />
     </task>
     <task id="LOCAL-00001" summary="Sept_2022_JS">
       <created>1667252588381</created>
@@ -100,7 +102,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667427832231</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="HW_3">
+      <created>1667857534323</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667857534323</updated>
+    </task>
+    <task id="LOCAL-00006" summary="HW_3">
+      <created>1667857551141</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667857551141</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +136,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Sept_2022_JS" />
     <MESSAGE value="HW_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW_2" />
+    <MESSAGE value="HW_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW_3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

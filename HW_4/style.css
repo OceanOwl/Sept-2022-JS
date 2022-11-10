@@ -1,0 +1,26 @@
+img {
+    width: 200px;
+}
+
+.product-card {
+    display: flex;
+    justify-content: space-evenly;
+}
+.product-title{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+.true{
+    width: 100%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+
+}
+.false{
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
