@@ -101,13 +101,15 @@
 //
 
 let listOfItems = ['html', 'css', 'javascript', 'mysql', 'mongodb', 'react', 'angular', 'node.js'];
+document.write(`<ul>`)
 for (let i = 0; i < listOfItems.length; i++) {
     const listOfItem = listOfItems[i];
-    document.write(`<ul>
+    document.write(`
 <li>${listOfItem}</li>
-</ul>`)
+`)
 
 }
+document.write(`</ul>`)
 // -----------------------------------------------
 //
 //     Використовуючи данні з масиву, за допомоги document.write та циклу
@@ -150,7 +152,7 @@ for (let i = 0; i < products.length; i++) {
     const product = products[i];
     document.write(`
 <div class="product-card">
-<img src="${product.image}" alt="" class="product-image">
+<img src="${product.image}" alt="img" class="product-image">
 <h3 class="product-title">${product.title}  -  ${product.price} UAH</h3>
 </div>
 
