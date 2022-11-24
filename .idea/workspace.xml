@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4d1f50a-8cc6-42ef-915e-bf277d64fc9a" name="Changes" comment="HW_5">
-      <change afterPath="$PROJECT_DIR$/HW_6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_6/main.js" afterDir="false" />
+    <list default="true" id="f4d1f50a-8cc6-42ef-915e-bf277d64fc9a" name="Changes" comment="HW_6">
+      <change afterPath="$PROJECT_DIR$/practice/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +74,7 @@
       <workItem from="1668025315535" duration="13312000" />
       <workItem from="1668150063694" duration="950000" />
       <workItem from="1668454658048" duration="8494000" />
-      <workItem from="1669060316224" duration="12210000" />
+      <workItem from="1669060316224" duration="16823000" />
     </task>
     <task id="LOCAL-00001" summary="Sept_2022_JS">
       <created>1667252588381</created>
@@ -160,7 +160,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668463176394</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="HW_6">
+      <created>1669078849625</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1669078849625</updated>
+    </task>
+    <task id="LOCAL-00014" summary="HW_6">
+      <created>1669078866068</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1669078866068</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,7 +197,8 @@
     <MESSAGE value="HW_3" />
     <MESSAGE value="HW_4" />
     <MESSAGE value="HW_5" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW_5" />
+    <MESSAGE value="HW_6" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW_6" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
