@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4d1f50a-8cc6-42ef-915e-bf277d64fc9a" name="Changes" comment="additional_functions">
-      <change afterPath="$PROJECT_DIR$/Additional5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Additional5/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Additional6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Additional6/main.js" afterDir="false" />
+    <list default="true" id="f4d1f50a-8cc6-42ef-915e-bf277d64fc9a" name="Changes" comment="additional6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Additional6/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Additional6/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +75,7 @@
       <workItem from="1668150063694" duration="950000" />
       <workItem from="1668454658048" duration="8494000" />
       <workItem from="1669060316224" duration="17849000" />
-      <workItem from="1669666807672" duration="11468000" />
+      <workItem from="1669666807672" duration="22260000" />
     </task>
     <task id="LOCAL-00001" summary="Sept_2022_JS">
       <created>1667252588381</created>
@@ -192,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669839777793</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="additional6">
+      <created>1669853138878</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1669853138878</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,7 +222,8 @@
     <MESSAGE value="HW_6" />
     <MESSAGE value="justSomePractice" />
     <MESSAGE value="additional_functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="additional_functions" />
+    <MESSAGE value="additional6" />
+    <option name="LAST_COMMIT_MESSAGE" value="additional6" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
