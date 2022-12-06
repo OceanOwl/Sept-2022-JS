@@ -41,25 +41,25 @@
 
 // - Даны два целых числа A и В . Выведите все числа от A до B включительно, в порядке возрастания, если A < B, или в порядке убывания в противном случае.
 //
-const xxx = (a, b) => {
-    let arr = [];
-    if (a > b) {
-        for (let i = a; i <= b; i++) {
-            const arrElement = arr[i];
-            arr.push(arrElement)
-        }
-    } else if (a < b) {
-        for (let i = a; i => b; i--) {
-            const arrElement = arr[i];
-            arr.push(arrElement)
-
-        }
-        return arr
-    }
-
-}
-let xxx1 = xxx(20, 30);
-console.log(xxx1);
+// const xxx = (a, b) => {
+//     let arr = [];
+//     if (a > b) {
+//         for (let i = a; i <= b; i++) {
+//             const arrElement = arr[i];
+//             arr.push(arrElement)
+//         }
+//     } else if (a < b) {
+//         for (let i = a; i => b; i--) {
+//             const arrElement = arr[i];
+//             arr.push(arrElement)
+//
+//         }
+//         return arr
+//     }
+//
+// }
+// let xxx1 = xxx(20, 30);
+// console.log(xxx1);
 
 
 //
@@ -77,3 +77,4 @@ console.log(xxx1);
 // [1,0,6,0,3] => [1,6,3,0,0]
 // [0,1,2,3,4] => [1,2,3,4,0]
 // [0,0,1,0]   => [1,0,0,0]
+//
