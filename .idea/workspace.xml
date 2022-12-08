@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4d1f50a-8cc6-42ef-915e-bf277d64fc9a" name="Changes" comment="additional5">
-      <change afterPath="$PROJECT_DIR$/Hw_7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hw_7/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_8/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_8/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Additional5/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Additional5/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +79,7 @@
       <workItem from="1669060316224" duration="17849000" />
       <workItem from="1669666807672" duration="26498000" />
       <workItem from="1670052612225" duration="16500000" />
+      <workItem from="1670445751487" duration="11415000" />
     </task>
     <task id="LOCAL-00001" summary="Sept_2022_JS">
       <created>1667252588381</created>
