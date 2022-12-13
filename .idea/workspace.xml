@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4d1f50a-8cc6-42ef-915e-bf277d64fc9a" name="Changes" comment="additional5">
-      <change afterPath="$PROJECT_DIR$/HW_8/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_8/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_8/style.css" afterDir="false" />
+    <list default="true" id="f4d1f50a-8cc6-42ef-915e-bf277d64fc9a" name="Changes" comment="HW_8">
+      <change afterPath="$PROJECT_DIR$/additional_9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/additional_9/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_8/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/HW_8/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_8/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/HW_8/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +80,7 @@
       <workItem from="1669060316224" duration="17849000" />
       <workItem from="1669666807672" duration="26498000" />
       <workItem from="1670052612225" duration="16500000" />
-      <workItem from="1670445751487" duration="11415000" />
+      <workItem from="1670445751487" duration="22760000" />
     </task>
     <task id="LOCAL-00001" summary="Sept_2022_JS">
       <created>1667252588381</created>
@@ -214,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670052861461</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="HW_8">
+      <created>1670460823142</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1670460823142</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,7 +250,8 @@
     <MESSAGE value="additional_functions" />
     <MESSAGE value="additional6" />
     <MESSAGE value="additional5" />
-    <option name="LAST_COMMIT_MESSAGE" value="additional5" />
+    <MESSAGE value="HW_8" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW_8" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
