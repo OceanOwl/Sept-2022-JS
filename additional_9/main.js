@@ -192,3 +192,25 @@ for (const rule of rules) {
 
 
 }
+
+// за допомоги рекурсії перебрати структуру сторінки. зробити об'єкт, всі заголовки покласти в (масив) характеристику headings,всі параграфи покласти в характеристику (масив) paragraphs
+
+function foo(body) {
+    let elementsByTagName = document.getElementsByTagName('h1')[0];
+    JSON.stringify(elementsByTagName);
+    obj.headings.push(elementsByTagName);
+
+    let elementsByTagNameH2 = document.getElementsByTagName('h2')[0];
+    JSON.stringify(elementsByTagNameH2);
+    obj.headings.push(elementsByTagNameH2);
+
+    let p = document.getElementsByTagName("p");
+    for (const pElement of p) {
+        obj.paragraphs.push(pElement);
+    }
+
+}
+
+let obj = {headings: [], paragraphs: []}
+foo(document.body);
+console.log(obj);
