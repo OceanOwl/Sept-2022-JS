@@ -195,7 +195,7 @@ for (const rule of rules) {
 
 // за допомоги рекурсії перебрати структуру сторінки. зробити об'єкт, всі заголовки покласти в (масив) характеристику headings,всі параграфи покласти в характеристику (масив) paragraphs
 
-function foo(body) {
+function foo() {
     let elementsByTagName = document.getElementsByTagName('h1')[0];
     JSON.stringify(elementsByTagName);
     obj.headings.push(elementsByTagName);
