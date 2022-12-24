@@ -6,15 +6,25 @@
 fetch('https://jsonplaceholder.typicode.com/users')
     .then((response) => response.json())
     .then(users => {
+        let container = document.createElement('div');
+        document.body.appendChild(container)
         for (const user of users) {
             let div = document.createElement('div');
             div.innerText = `${user.id} ${user.name}`;
             document.body.appendChild(div);
             let a = document.createElement('a');
-            a.href = `user-details.html?id=` + user.id;
+            a.href = `../secondPage/user-details.html?id=` + user.id;
             a.innerText = 'user-details';
             div.appendChild(a);
             document.body.appendChild(div);
+
+
+            container.append(div);
+            container.classList.add('container');
+            div.classList.add('user');
+            a.classList.add('link')
+
+
 
         }
 

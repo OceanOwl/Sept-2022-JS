@@ -1,0 +1,19 @@
+.postDetails{
+    background: silver;
+}
+.commentsContainer{
+    display: flex;
+    box-sizing: border-box;
+}
+.commentDiv{
+    width: 100%;
+    display: flex;
+    box-sizing: border-box;
+    background: silver;
+    border: 2px solid black;
+}
+.commentDiv1{
+    display: flex;
+    box-sizing: border-box;
+    width: 20%;
+}
